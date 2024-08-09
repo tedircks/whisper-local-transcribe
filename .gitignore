@@ -1,0 +1,9 @@
+transcriptions/*
+Include/*
+Lib/*
+share/*
+Library/*
+Scripts/*
+src/__pycache__/*
+pyvenv.cfg
+config.ini
